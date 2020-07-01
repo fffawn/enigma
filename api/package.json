@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API for enigma.",
+  "main": "/src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fffawn/enigma.git"
+  },
+  "keywords": [
+    "enigma",
+    "api"
+  ],
+  "author": "Rodolfo Thiede B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fffawn/enigma/issues"
+  },
+  "homepage": "https://github.com/fffawn/enigma#readme"
+}
